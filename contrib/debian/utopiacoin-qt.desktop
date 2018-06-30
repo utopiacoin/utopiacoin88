@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Utopiacoin
+Comment=Utopiacoin P2P Cryptocurrency
+Comment[fr]=Utopiacoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Utopiacoin, eşten eşe kriptografik sanal para birimi
+Exec=utopiacoin-qt %u
+Terminal=false
+Type=Application
+Icon=utopiacoin128
+MimeType=x-scheme-handler/utopiacoin;
+Categories=Office;Finance;
